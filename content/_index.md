@@ -37,4 +37,4 @@ interests = [
 
 I am a computer scientist and researcher interested in artificial intelligence. My work and academic interests sit at the intersection of intelligent systems, security, and practical computing.
 
-Neural Notebook serves as a professional and academic home for my projects, publications, and videos related to AI, cybersecurity, and software engineering.
+Neural Notebook serves as a professional and academic home for my projects, publications, and videos related to artificial intelligence, cybersecurity, and software engineering.
