@@ -1,0 +1,37 @@
+base_url = "https://neural-notebook.com"
+theme = "nn-theme"
+title = "Neural Notebook"
+compile_sass = false
+build_search_index = false
+
+[translations]
+Biography = "Biography"
+Interests = "Interests"
+Education = "Education"
+toc = "Table of Contents"
+Published = "Published"
+Abstract = "Abstract"
+volume = "volume"
+number = "number"
+pages = "pages"
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
+
+[markdown]
+
+[markdown.highlighting]
+theme = "catppuccin-mocha"
+
+[extra]
+version = "1.0.1"
+
+avatar = "img/pfp.png"
+favicon = "img/pfp.png"
+
+email = ""
+contact_in_index = false
+
+menu_items = []

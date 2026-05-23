@@ -1,0 +1,3 @@
+[submodule "themes/nn-theme"]
+	path = themes/nn-theme
+	url = https://github.com/thomasza92/nn-theme
