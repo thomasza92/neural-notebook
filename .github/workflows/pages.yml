@@ -31,6 +31,12 @@ jobs:
         with:
           tool: zola@0.22.1
 
+      - name: Build theme CSS
+        working-directory: themes/nn-theme
+        run: |
+          npm ci
+          npx @tailwindcss/cli -i styles/styles.css -o static/styles/styles.css
+
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
