@@ -34,4 +34,4 @@ favicon = "img/pfp.png"
 email = ""
 contact_in_index = false
 
-menu_items = []
+menu_items = [{ path = "#", name = "CV" }]
