@@ -33,5 +33,6 @@ favicon = "img/pfp.png"
 
 email = ""
 contact_in_index = false
+katex_enable = true
 
 menu_items = [{ path = "#", name = "CV" }]
