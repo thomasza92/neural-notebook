@@ -4,11 +4,11 @@ page_template = "page.html"
 
 [extra]
 name = "Zach Thomas"
-title = "Student"
+title = "Cybersecurity Graduate"
 
 interests = [
+  "Cybersecurity",
   "Artificial Intelligence",
-  "Software Engineering",
   "Embedded Systems",
 ]
 
@@ -35,8 +35,6 @@ interests = [
   year = "2025"
 +++
 
-I am an aspiring computer scientist with interests in machine learning, embedded systems, and efficient software.
+I am a recent cybersecurity graduate with interests in machine learning, red teaming, and embedded systems.
 
-Neural Notebook serves as a professional and academic home for my projects, videos, and writings related to artificial intelligence and applied computing.
-
-I am currently working on completing courses in preparation for graduate study in computer science.
+Neural Notebook serves as a professional and academic home for my projects, videos, and writings related to cybersecurity, artificial intelligence and embedded systems.
